@@ -5,20 +5,7 @@
 I am a **Full Stack Developer** skilled in creating modern, scalable web applications with **Next.js, React, Node.js, TypeScript, Tailwind CSS, PostgreSQL, Prisma, Drizzle, and MongoDB**.  
 Currently, I’m working as a **Full Stack Developer with Luis**, a freelancer from Mexico, where I contribute to real-world projects and strengthen my industry expertise.  
 
----
-
-## 🚀 About Me
-- 🌐 Building practical and impactful web applications.  
-- 🎯 Goal: To secure a **full-time role** and contribute to meaningful projects.  
-- 📍 Based in India (open to relocation & remote).  
-- ⚡ Fun fact: I love solving real-world problems with clean code.  
-
----
-
-## 🛠️ Tech Stack
-**Frontend:** Next.js, React, TypeScript, JavaScript, Tailwind CSS, Shadcn UI  
-**Backend:** Node.js, Express, MongoDB, PostgreSQL, Prisma, Drizzle ORM  
-**Others:** Git, GitHub, Appwrite, Resend (Email), Playwright (Testing)  
+🔎 I’m actively **looking for opportunities in India (on-site) and Remote worldwide**.  
 
 ---
 
