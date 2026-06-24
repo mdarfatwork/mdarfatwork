@@ -118,7 +118,7 @@ Expense-sharing and debt-management platform with advanced payment tracking and 
 
 ## 🚗 AB Sidy (Car24-like Platform)
 
-🔗 http://car.techtrial.work/
+🔗 https://ab-sidy.techtrial.work/
 
 Worked on a car auction and management platform involving:
 
@@ -139,6 +139,8 @@ Contributed to a premium healthcare recruitment platform by building and improvi
 ---
 
 ## 🤖 Welzo AI
+
+🔗 https://welzo.ai
 
 Worked on AI chatbot integrations and automation workflows for the Welzo ecosystem.
 
@@ -172,7 +174,7 @@ Worked on AI chatbot integrations and automation workflows for the Welzo ecosyst
 
 # 🌍 Connect With Me
 
-* Portfolio: https://arfatportfolio.vercel.app/
+* Portfolio: https://mohammedarfat.vercel.app/
 * LinkedIn: https://www.linkedin.com/in/momin-mohammed-arfat/
 * Email: [arfat19118@gmail.com](mailto:arfat19118@gmail.com)
 
