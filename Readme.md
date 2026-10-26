@@ -1,185 +1,86 @@
 # Hi there 👋, I'm Arfat
 
-### Full-Stack SaaS Engineer • Next.js • TypeScript • AI Integrations
+### Full-Stack SaaS Engineer · Next.js · TypeScript · AI
 
-I’m a self-taught full-stack developer focused on building scalable SaaS applications, AI-powered tools, and modern web experiences.
-
-Currently working on real-world client projects where I contribute across frontend, backend integrations, production workflows, and deployment processes.
-
-I enjoy solving product-focused problems, working independently, and building applications that deliver real business value.
+I'm a self-taught developer building SaaS products, AI-powered applications, and modern web experiences. I work across frontend development, backend integrations, databases, and production workflows.
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
-### Frontend
+**Frontend:** Next.js, React, TypeScript, Tailwind CSS, Framer Motion
 
-* Next.js
-* React
-* TypeScript
-* Tailwind CSS
-* Framer Motion
+**Backend & Databases:** Node.js, Express.js, PostgreSQL, Prisma, Drizzle, MongoDB, Supabase, Firebase
 
-### Backend & Database
+**AI & Automation:** AI Integrations, RAG, n8n, Workflow Automation
 
-* Node.js
-* Express.js
-* PostgreSQL
-* Prisma
-* Drizzle ORM
-* MongoDB
-* Supabase
-* Firebase
-
-### AI & Automation
-
-* OpenAI API
-* AI Integrations
-* n8n Automation
-* Workflow Automation
-
-### Tools & DevOps
-
-* Git & GitHub
-* Vercel
-* PM2
-* Linux Server Basics
-* REST APIs
-* Postman
+**Tools & DevOps:** Git, GitHub, Vercel, Linux, PM2, REST APIs, Postman
 
 ---
 
-# 🧩 Featured Projects
+## 🚀 Featured Projects
 
-## ⚡ QuickFolio
+### 🦷 DentAssist AI
+[Live Demo](https://dentassist-care.vercel.app/) · AI-powered dental receptionist SaaS.
 
-🔗 Live: https://quickfolio-arfat.vercel.app/
-🔗 GitHub: https://github.com/mdarfatwork/QuickFolio
+- Clinic-specific AI chatbot powered by RAG
+- Google Calendar appointment scheduling
+- Multi-tenant architecture and knowledge base
+- **Stack:** Next.js, TypeScript, PostgreSQL, Prisma, Pinecone
 
-A developer-focused portfolio builder designed for quickly generating and showcasing personal portfolio websites.
+### ⚡ QuickFolio
+[Live Demo](https://quickfolio-arfat.vercel.app/) · [GitHub](https://github.com/mdarfatwork/QuickFolio)
 
-### Highlights
+A portfolio builder for developers to create and showcase personal websites.
 
-* Dynamic portfolio generation
-* Responsive modern UI
-* Next.js App Router
-* Tailwind CSS
-* Optimized performance
+### 🤖 DM Genie
+[Live Demo](https://dmgenie-arfat.vercel.app/) · [GitHub](https://github.com/mdarfatwork/dmgenie)
 
----
+AI-powered LinkedIn outreach assistant using resume and job-description context.
 
-## 🤖 DM Genie
+### 📝 LetterGenie
+[Live Demo](https://lettergenie.vercel.app/) · [GitHub](https://github.com/mdarfatwork/lettergenie)
 
-🔗 Live: https://dmgenie-arfat.vercel.app/
-🔗 GitHub: https://github.com/mdarfatwork/dmgenie
+AI-powered cover letter generation for personalized professional applications.
 
-AI-powered outreach assistant that generates personalized LinkedIn messages using resume and job description context.
+### 🏦 Coopay · Private Project
 
-### Highlights
-
-* AI-generated personalized messaging
-* Resume/job parsing workflows
-* Modern responsive UI
-* Built using Next.js + AI APIs
+Expense-sharing SaaS with debt settlement, recurring expenses, reminders, and AI-powered transaction extraction.
 
 ---
 
-## 📝 LetterGenie
+## 💼 Professional Experience
 
-🔗 Live: https://lettergenie.vercel.app/
-🔗 GitHub: https://github.com/mdarfatwork/lettergenie
+**🚗 AB Sidy** · [Live Website](https://ab-sidy.techtrial.work/)
 
-An AI-based cover letter generator that creates professional personalized cover letters within seconds.
+Contributed to vehicle exchange workflows, invoice handling, and automotive platform features at Noorisys Technologies.
 
-### Highlights
+**🏥 E-Officine** · [Live Website](https://e-officine.com/)
 
-* AI-generated content workflows
-* Fast and minimal UX
-* Real-world productivity use case
-* Built with modern React architecture
+Contributed to frontend development and production features for a healthcare recruitment platform.
 
----
+**🤖 Welzo AI** · [Live Website](https://welzo.ai/)
 
-## 🏦 Coopay *(Private Project)*
-
-Expense-sharing and debt-management platform with advanced payment tracking and reminder workflows.
-
-### Highlights
-
-* Shared expense tracking
-* Debt splitting system
-* Reminder scheduling
-* Complex state management
-* SaaS-focused architecture
+Worked on AI chatbot integrations, n8n automation workflows, and frontend implementation.
 
 ---
 
-# 💼 Professional Experience
+## 🎯 Current Focus
 
-## 🚗 AB Sidy (Car24-like Platform)
-
-🔗 https://ab-sidy.techtrial.work/
-
-Worked on a car auction and management platform involving:
-
-* exchange car workflows
-* invoice handling
-* frontend feature implementation
-* production bug fixing
-* real-world business logic integration
+- Full-stack SaaS engineering
+- AI agents, RAG, and automation
+- Backend architecture and system design
+- Deployment and production engineering
 
 ---
 
-## 🏥 E-Officine
+## 🌍 Connect With Me
 
-🔗 https://e-officine.com/
-
-Contributed to a premium healthcare recruitment platform by building and improving frontend experiences and platform functionality.
-
----
-
-## 🤖 Welzo AI
-
-🔗 https://welzo.ai
-
-Worked on AI chatbot integrations and automation workflows for the Welzo ecosystem.
-
-### Contributions
-
-* n8n workflow automation
-* AI integrations
-* frontend implementation
-* production collaboration
+- **Portfolio:** [arfat.is-a.dev](https://arfat.is-a.dev/)
+- **LinkedIn:** [Momin Mohammed Arfat](https://www.linkedin.com/in/momin-mohammed-arfat/)
+- **Email:** [arfat19118@gmail.com](mailto:arfat19118@gmail.com)
+- **GitHub:** [@mdarfatwork](https://github.com/mdarfatwork)
 
 ---
 
-# 📈 Current Focus
-
-* Full-stack SaaS development
-* AI-powered applications
-* Backend architecture
-* Deployment & DevOps
-* Remote engineering opportunities
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdarfatwork&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdarfatwork&layout=compact&theme=tokyonight" height="170" />
-</p>
-
----
-
-# 🌍 Connect With Me
-
-* Portfolio: https://mohammedarfat.vercel.app/
-* LinkedIn: https://www.linkedin.com/in/momin-mohammed-arfat/
-* Email: [arfat19118@gmail.com](mailto:arfat19118@gmail.com)
-
----
-
-### ⚡ Fun Fact
-
-I’m a self-taught developer from India who enjoys building SaaS products, solving real-world problems, and continuously leveling up through hands-on projects.
+*Building useful products, solving real-world problems, and learning by shipping.*
